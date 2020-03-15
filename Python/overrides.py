@@ -1,0 +1,8 @@
+domain= "ebcrides.org"
+rideChangePath="data/rideChanges/"
+ridesChair="rideschair@evanstonbikeclub.org"
+ridesChair="rideschair@ebcrides.org"
+newYearMsg="data/newYearMsg.msg"
+reminderMsg="data/reminderMsg.msg"
+webDir="/home/ebcrides/www"
+#3calendar="ks6vey3851dksidkzc"
